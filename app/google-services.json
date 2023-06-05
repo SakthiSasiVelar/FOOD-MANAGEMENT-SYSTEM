@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "915045084497",
+    "project_id": "aahaar-app-8c494",
+    "storage_bucket": "aahaar-app-8c494.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915045084497:android:bd5452fe4d8f1acd5d3770",
+        "android_client_info": {
+          "package_name": "com.example.aahaarapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915045084497-ekakkfrp74oq5nrnn61pogt3gtanapta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFETsZkhvtlfrh9aP9--kHPgIPsfAJtlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915045084497-ekakkfrp74oq5nrnn61pogt3gtanapta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
